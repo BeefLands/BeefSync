@@ -22,15 +22,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/BeefLands/Beefcome-Inator.git"
+		"url": "git+https://github.com/BeefLands/BeefSync.git"
 	},
 	"keywords": [],
 	"author": "Jaron Zijlstra <jaron_zijlstra@outlook.com>",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/BeefLands/Beefcome-Inator/issues"
+		"url": "https://github.com/BeefLands/BeefSync/issues"
 	},
-	"homepage": "https://github.com/BeefLands/Beefcome-Inator#readme",
+	"homepage": "https://github.com/BeefLands/BeefSync#readme",
 	"dependencies": {
 		"@sapphire/decorators": "^4.3.3",
 		"@sapphire/framework": "^2.4.1",
